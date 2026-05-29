@@ -1,3 +1,3 @@
-print("New hello git")
-print("porno")
+print("New hello git whit changes")
+
  
